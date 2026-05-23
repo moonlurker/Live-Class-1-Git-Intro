@@ -24,9 +24,9 @@ body {
 }
 
 .card {
-    background-color: #f2f1ed;
-    border-radius: 12px;
-    padding: 40px 32px;
+    background-color: #d3dde4;
+    border-radius: 8px;
+    padding: 28px;
     width: 320px;
     flex-shrink: 0;
 }
@@ -34,7 +34,7 @@ body {
 .card-title {
     font-size: 32px;
     font-weight: 600;
-    color: #333;
+    color: #333333;
     margin-bottom: 8px;
 }
 
@@ -76,7 +76,7 @@ body {
 
 .download-button {
     width: fit-content;
-    background-color: #e6e5e0;
+    background-color: #a7b7c8;
     border: none;
     border-radius: 999px;
     padding: 14px 24px;
@@ -88,9 +88,9 @@ body {
 }
 
 .download-button:hover {
-    background-color: #D8D6CE;
+    background-color: #b2c1d2;
 }
 
 .download-button:active {
-    background-color: #D8D6CE;
+    background-color: #a7b7c8;
 }
